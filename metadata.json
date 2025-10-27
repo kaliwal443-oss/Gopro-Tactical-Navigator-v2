@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Gopro Tactical Navigator v2.1",
+  "description": "A web-based tactical navigation app inspired by Gopro, featuring a map with grid overlay, satellite signal tracking, and a compass. This app simulates the Indian Grid System for coordinates and provides a 'goto' function for navigation.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
